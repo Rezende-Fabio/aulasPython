@@ -1,0 +1,6 @@
+print ("opa")
+print("à, á, û, ão")
+nome = input("Qual seu nome: ")
+idade = input("Qual a sua idade: ")
+print(f"{nome} tem {idade} anos.")
+print(type(idade))
